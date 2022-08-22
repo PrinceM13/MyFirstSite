@@ -24,6 +24,7 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
   color: #39AEA9;
+  margin: 20px auto 20px auto;
 }
 
 a{
@@ -103,13 +104,13 @@ p{
 }
 
 .light_bulb-pic{
-  width: 27%; /*25%*/
+  width: 30%; /*25%*/
   float: left;
   margin-right: 30px;
 }
 
 .camera-pic{
-  width: 27%; /*25%*/
+  width: 30%; /*25%*/
   float: right;
   margin-left: 30px;
 }
