@@ -103,13 +103,13 @@ p{
 }
 
 .light_bulb-pic{
-  width: 30%; /*25%*/
+  width: 27%; /*25%*/
   float: left;
   margin-right: 30px;
 }
 
 .camera-pic{
-  width: 30%; /*25%*/
+  width: 27%; /*25%*/
   float: right;
   margin-left: 30px;
 }
